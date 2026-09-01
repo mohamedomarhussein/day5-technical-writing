@@ -69,17 +69,6 @@ Comprehensive API documentation including:
 
 ---
 
-## 🔗 Submission Link
-**Repository URL:** https://github.com/[your-username]/days-technical-writing
 
----
 
-## 📝 Notes
-- All documentation follows markdown formatting for readability
-- Content is original and created specifically for this assignment
-- Examples use realistic data and scenarios
-- Documentation is designed for real-world professional use
 
----
-
-*Submitted for Day 5 Technical Writing Lab*
